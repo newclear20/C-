@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tubiao/giver.png</file>
+        <file>tubiao/giver_copy.png</file>
+        <file>tubiao/home.png</file>
+        <file>tubiao/information.png</file>
+        <file>tubiao/shangpin.png</file>
+        <file>tubiao/things.png</file>
+        <file>tubiao/user.png</file>
+    </qresource>
+</RCC>
